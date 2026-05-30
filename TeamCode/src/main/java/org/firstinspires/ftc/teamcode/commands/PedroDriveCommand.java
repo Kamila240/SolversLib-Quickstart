@@ -15,7 +15,7 @@ public class PedroDriveCommand extends CommandBase {
     //private final BooleanSupplier slowModeSupplier;
     private final boolean robotCentric;
 
-    public static double STICK_DEADBAND = 0.06;
+    public static double STICK_DEADBAND  = 0.06;
 
     public static double DRIVE_EXPO = 0.35;
     public static double TURN_EXPO = 0.65;
